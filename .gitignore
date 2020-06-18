@@ -1,0 +1,18 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+*.class
+.mvn/
+
+# Maven
+log/
+target/
+out/
+
+#application
+journal/
+snapshots/
+ddata*/
+output/
+data/
